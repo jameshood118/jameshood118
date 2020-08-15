@@ -10,4 +10,4 @@
 
 ![Screenshot](https://github.com/jameshood118/jameshood118/blob/master/gitlab%20stats.png)
 
-[![James github stats](https://github-readme-stats.vercel.app/api?username=Jameshood118&show_icons=true&theme=monokai)](https://github.com/jameshood118/readme)
+[![James github stats](https://github-readme-stats.vercel.app/api?username=Jameshood118&show_icons=true&theme=monokai)](https://github.com/jameshood118/jameshood118/blob/master/README.md)
