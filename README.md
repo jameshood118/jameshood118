@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on ... Updating my portfolio with lovely vuejs secrets!
-- 🌱 I’m currently learning ... to be patient, to learn humility, oh and vuejs
+- 🌱 I’m currently learning ... to be patient, oh and vuejs
 - 💬 Ask me about ... Doctor Who, music, VueJS
 - 📫 How to reach me: ... 239-898-7833
 - 😄 Pronouns: ... He/Him/dude/bro/bud/hey you
