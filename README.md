@@ -42,7 +42,7 @@ I operate exclusively in **Type-Safe environments**. If it isn't verified, it is
 ### 📡 Connection & Verification
 * **Location:** St. Petersburg, FL ☀️
 * **Status:** In Omnia Paratus (Ready for all things)
-* **Handle:** prophet118
+* **Handle:** jameshood118
 
 ```json
 {
