@@ -5,6 +5,7 @@
 [![Human OS](https://img.shields.io/badge/Human_OS-Core_Architecture-ff69b4?style=for-the-badge&logo=react&logoColor=white)](https://github.com/jameshood118)
 [![AI-Augmented](https://img.shields.io/badge/AI-Augmented_Workflow-8a2be2?style=for-the-badge&logo=probot&logoColor=white)](https://github.com/jameshood118)
 [![Cat-Approved](https://img.shields.io/badge/Cat-Approved-593d88?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jameshood118)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R81Y13P3)
 
 </div>
 
@@ -44,6 +45,8 @@ I operate exclusively in **Type-Safe environments**. If it isn't verified, it is
 * **Location:** St. Petersburg, FL ☀️
 * **Status:** In Omnia Paratus (Ready for all things)
 * **Handle:** jameshood118
+* **Podcast:** [Listen on Podbean](https://jameshood118.podbean.com/)
+* **Newsletter:** [Read on Substack](https://jameshood118.substack.com/)
 
 ```json
 {
