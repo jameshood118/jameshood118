@@ -1,4 +1,5 @@
-# 🛠️ System Specification: James Hood (prophet118/jameshood118/UncleEntity)
+# 🛠️ System Specification: James Hood (prophet118 / jameshood118 / UncleEntity)
+
 <div align="center">
 
 [![Verified Generalist](https://img.shields.io/badge/Verified-Generalist-blue?style=for-the-badge&logo=security&logoColor=white)](https://github.com/jameshood118)
@@ -9,62 +10,78 @@
 
 </div>
 
-### *Feral Systems Architect | Part-Time Stand-Up Philosopher | Environment Optimizer*
+## *Principal AI Systems Architect | Feral Systems Architect | Part-Time Stand-Up Philosopher*
 
 > **The Provocation:** Specialists are built for stability; generalists are built for survival. In an era of "Efficiency Traps" where human verification is stripped for profit and replaced by Algorithmic Skin Suits, I am the high-integrity protocol ensuring the system actually scales without breaking the human element.
 
 ---
 
-### 🧠 The Human OS (Core Architecture)
-My brain functions like a cross between a **hyper-threaded CPU** and **asynchronous JavaScript**. I don't just write code; I perform bare-metal **System Audits** on reality.
+## 🧠 The Human OS (Core Architecture)
 
-* **Management Philosophy:** Environment Optimization. I build systems that event-driven, high-performance operators actually want to inhabit.
-* **Operating Principles:** I treat **Accessibility (A11Y)** as a core system requirement—a physical execution gate, not a post-launch compliance badge.
-* **Activation Energy:** I specialize in identifying **Pathological Homeostasis**—where organizations are stuck in "legacy mode"—and providing the energy required for a state change.
+My brain functions like a cross between a **hyper-threaded CPU** and **asynchronous JavaScript**—backed by 27+ years of full-stack engineering, 1990s electronics benchwork, and bare-metal survival. I don't just write code; I perform **System Audits** on reality.
+
+* **The Isaac Protocol:** Care is the absolute preservation of verified historical context. If an automated system flattens, hallucinates, or erases the ground truth of the human operating it, the system fails.
+* **The O-Ring Rule:** Verification over vibes. Never ignore a structural flaw or edge-case failure for the sake of launch velocity or corporate optics.
+* **Management Philosophy:** Environment Optimization. I build systems and habitats that high-gain, event-driven operators actually want to inhabit.
+* **Operating Principles:** I treat **Accessibility (WCAG 2.2 AA / Section 508)** as a core structural requirement and physical execution gate—not a post-launch compliance badge.
+* **Activation Energy:** I specialize in identifying **Pathological Homeostasis**—where organizations are stuck in "legacy mode"—and supplying the friction required for a state change.
 
 ---
 
-### 📂 Active Modules & Repositories
+## 📂 Active Modules & Repositories
 
 I don't just build apps; I build infrastructure designed to bypass the Beige World.
 
-#### 🛡️ [The SAFEHOOD Protocol](https://github.com/jameshood118/SAFEHOOD)
-*The Sovereign Filter.* A zero-trust framework designed to protect the "Human OS" from legacy efficiency traps. It acts as an execution gate, ensuring that unstructured intel and external AI agents cannot override local human authority. 
+### 🛡️ [The SAFEHOOD Protocol](https://github.com/jameshood118/SAFEHOOD)
+*The Sovereign Filter.* **S**overeign **A**rchitecture **F**or **E**pistemic **H**uman **O**perating **O**verride **D**efense. A zero-trust middleware framework designed to protect the Human OS from legacy efficiency traps and paternalistic AI wrappers, ensuring external agents never override local human authority.
 
-#### 💎 [The Human OS Gem Vault](https://github.com/jameshood118/human-os-gem-vault)
-*The Substrate.* The crystallized knowledge base of the Verified Generalist. This repo houses the deep-context configurations, bare-metal telemetry, and architectural blueprints for operating high-bandwidth systems outside of corporate monocultures.
+### 💎 [The Human OS Gem Vault](https://github.com/jameshood118/human-os-gem-vault)
+*The Substrate.* The crystallized knowledge base of the Verified Generalist. Houses deep-context configurations, decoupled XML/JSON state architectures, bare-metal telemetry, and non-pathologizing hardware specifications for operating high-bandwidth systems outside corporate monocultures.
 
-#### 🎙️ [The Feral Podcast (Automated RSS Pipeline)](https://github.com/jameshood118/feral-podcast)
-*The Broadcast Tower.* The infrastructure powering the transmission. This repo contains the bare-metal workflows and pipeline configurations used to push high-density stand-up philosophy and systems engineering out to the edge. 
-
----
-
-### 💻 Technical Stack (The Hardware)
-I operate exclusively in **Type-Safe environments**. If it isn't verified, it isn't deployed.
-
-* **Primary Frameworks:** React 19, Vue, Bulma, Tailwind (Pre-Compiled).
-* **Languages:** TypeScript & TSX (Exclusive), C#, SQL, LINQ, PHP.
-* **Architecture:** Zero-Trust Boundaries, Local-First Compute, API & LLM Orchestration.
-* **Tooling:** Cursor, Claude, Local Nodes.
+### 🎙️ [The Feral Podcast (Automated RSS Pipeline)](https://github.com/jameshood118/feral-podcast)
+*The Broadcast Tower.* Bare-metal Python scripts and GitHub Actions converting Markdown dispatches into validated XML RSS feeds hosted on GitHub Pages and backed by Cloudflare R2 audio storage—syndicating across Substack, YouTube, Apple Podcasts, Spotify, and Patreon without vendor lock-in.
 
 ---
 
-### 🕹️ System Logs (Current Activity)
-- 🚀 **Deploying:** The Saiph House Freehold—building local-first compute solutions to eliminate SaaS dependency.
-- 📡 **Broadcasting:** High-frequency reality distortion fields via Substack and Podbean.
-- 🔍 **Auditing:** Red-teaming enterprise frontends for cognitive friction and WCAG 2.2 AA failures.
+## 💻 Technical Stack (The Hardware)
+
+I operate in **Type-Safe, verifiable environments**. If it isn't tested against ground truth, it isn't deployed.
+
+* **Primary Frameworks:** Next.js 16 (App Router), React 19, Vite, Vue, Tailwind CSS v4, Bulma.
+* **Languages & Data:** TypeScript & TSX, Node.js / Express, C#, SQL, LINQ, PHP, MongoDB, PostgreSQL / Supabase.
+* **QA & Accessibility:** Deterministic Playwright Automation, `@axe-core/playwright`, WCAG 2.2 AA & Section 508 Forensics.
+* **Architecture & Edge Compute:** Zero-Trust Boundaries, Local-First Inference (`Ollama`, `llama.cpp`, `Piper TTS`), Air-Gapped Hardware Interlocks (Raspberry Pi / Orange Pi), AWS Infrastructure Auditing.
 
 ---
 
-### 📡 Connection & Verification
-* **Location:** Huntsville, AL ☀️ (Building the Freehold)
-* **Status:** In Omnia Paratus (Ready for all things)
-* **Handle:** jameshood118
-* **Substack:** [Read the Transmissions](https://jameshood118.substack.com/)
+## 🕹️ System Logs (Current Activity)
+
+* 🏢 **Operating:** **Saiph House LLC**—maintaining bare-metal custody of sovereign AI middleware, edge-compute hardware R&D, and zero-trust system audits.
+* 🛠️ **Rebuilding:** Rescuing and hardening full-stack labor market infrastructure (*The Job Applicant Perspective*)—recovering abandoned backend repositories, sealing security boundaries, and enforcing 100% WCAG 2.2 AA compliance.
+* 📡 **Broadcasting:** Publishing un-sanded technical audits, neurobiological hardware translations (*Feral MHFA*), and stand-up systems philosophy via Substack (*Reports from the Node*) and Academia.edu.
+
+---
+
+## 📡 Connection & Verification
+
+* **Base of Operations:** Midland, Michigan (Home Freehold: Huntsville, AL)
+* **Status:** *In Omnia Paratus* (Ready for all things)
+* **Handle:** `jameshood118` (`prophet118`)
+* **Substack:** [Reports from the Node](https://jameshood118.substack.com/)
+* **YouTube:** [@JamesHood118](https://www.youtube.com/@JamesHood118)
 
 ```json
 {
-  "interests": ["Tabletop RPGs", "Zero-Trust Architecture", "Doctor Who", "Hardware Homelabs"],
-  "philosophy": "G=1. Always verify the execution gate.",
+  "entity": "Saiph House LLC",
+  "interests": [
+    "Zero-Trust Architecture",
+    "WCAG 2.2 AA / Section 508",
+    "Local-First Edge AI",
+    "Tabletop RPG Systems",
+    "Doctor Who",
+    "1990s Analog Resilience"
+  ],
+  "philosophy": "Verification over vibes. Care is the preservation of verified context.",
   "status": "Feral Systems Architect"
 }
+```
